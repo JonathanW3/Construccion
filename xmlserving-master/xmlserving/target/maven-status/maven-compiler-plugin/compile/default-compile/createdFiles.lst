@@ -1,0 +1,5 @@
+net\osgg\xmlserving\Employee.class
+net\osgg\xmlserving\EmployeeRepository.class
+net\osgg\xmlserving\XMLRestController.class
+net\osgg\xmlserving\XmlservingApplication.class
+net\osgg\xmlserving\EmployeeService.class
